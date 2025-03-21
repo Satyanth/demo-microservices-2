@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo "Executing microservice-1 from preprod branch"
+        echo "Executing microservice-2 from preprod branch"
       }
     }
   }
